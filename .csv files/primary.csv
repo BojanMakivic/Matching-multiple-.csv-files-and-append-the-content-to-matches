@@ -1,0 +1,117 @@
+schema:Accommodation,Accommodation,Accommodation
+schema:AdministrativeArea,AdministrativeArea,Verwaltungsbereich
+schema:Airport,Airport,Flughafen
+schema:AmusementPark,AmusementPark,Freizeitpark
+schema:Aquarium,Aquarium,Aquarium
+schema:ArtGallery,ArtGallery,Kunstgalerie
+schema:Article,Article,Artikel
+schema:AutoDealer,AutoDealer,Autohändler
+schema:AutoRental,AutoRental,Autovermietung
+schema:AutomatedTeller,AutomatedTeller,Geldautomat
+schema:AutomotiveBusiness,AutomotiveBusiness,Automobilgeschäft
+schema:Bakery,Bakery,Bäckerei
+schema:BankOrCreditUnion,BankOrCreditUnion,Bank oder Kreditinstitut
+schema:BarOrPub,BarOrPub,Bar oder Pub
+schema:Beach,Beach,Strand
+schema:BeautySalon,BeautySalon,Kosmetiksalon
+schema:BedAndBreakfast,BedAndBreakfast,Übernachtung mit Frühstück
+schema:BikeStore,BikeStore,Fahrradladen
+schema:BlogPosting,BlogPosting,Blog Post
+schema:BoatReservation,BoatReservation,
+schema:BoatTerminal,BoatTerminal,
+schema:BodyOfWater,BodyOfWater,Gewässer
+schema:BookStore,BookStore,Buchladen
+schema:BowlingAlley,BowlingAlley,Kegelbahn
+schema:Brewery,Brewery,Brauerei
+schema:Bridge,Bridge,Brücke
+schema:BusStation,BusStation,Busstation
+schema:BusStop,BusStop,Bushaltestelle
+schema:CafeOrCoffeeShop,CafeOrCoffeeShop,Café
+schema:Campground,Campground,Campingplatz
+schema:CampingPitch,CampingPitch,Campingplatz
+schema:Casino,Casino,Casino
+schema:Cemetery,Cemetery,Friedhof
+schema:Church,Church,Kirche
+schema:City,City,Stadt
+schema:CityHall,CityHall,Rathaus
+schema:CivicStructure,CivicStructure,Gemeindegebäude
+schema:Class,Class,
+schema:ClothingStore,ClothingStore,Bekleidungsgeschäft
+schema:CourseInstance,CourseInstance,
+schema:CreativeWork,CreativeWork,
+schema:DaySpa,DaySpa,Kureinrichtung
+schema:EducationalOrganization,EducationalOrganization,Bildungseinrichtung
+schema:EmergencyService,EmergencyService,Notdienst
+schema:EntertainmentBusiness,EntertainmentBusiness,Unterhaltungsbranche
+schema:Event,Event,Veranstaltung
+schema:EventVenue,EventVenue,Veranstaltungsort
+schema:ExerciseGym,ExerciseGym,Fitnessraum
+schema:FinancialService,FinancialService,Finanzdienstleister
+schema:FoodEstablishment,FoodEstablishment,Speiselokal
+schema:GasStation,GasStation,Tankstelle
+schema:GolfCourse,GolfCourse,Golfplatz
+schema:GovernmentBuilding,GovernmentBuilding,Regierungsgebäude
+schema:GroceryStore,GroceryStore,Lebensmittelmarkt
+schema:HealthAndBeautyBusiness,HealthAndBeautyBusiness,Gesundheits- und Beautybereich
+schema:HealthClub,HealthClub,Fitnesscenter
+schema:HobbyShop,HobbyShop,Hobbygeschäft
+schema:Hospital,Hospital,Krankenhaus
+schema:Hostel,Hostel,Herberge
+schema:Hotel,Hotel,Hotel
+schema:HotelRoom,HotelRoom,
+schema:House,House,
+schema:Intangible,Intangible,
+schema:LakeBodyOfWater,LakeBodyOfWater,See
+schema:Landform,Landform,Landform
+schema:LandmarksOrHistoricalBuildings,LandmarksOrHistoricalBuildings,Wahrzeichen oder historisches Bauwerk
+schema:Library,Library,Bibliothek
+schema:LiquorStore,LiquorStore,Sprituosenladen
+schema:LocalBusiness,LocalBusiness,Unternehmen
+schema:LodgingBusiness,LodgingBusiness,Unterkunft
+schema:MediacalBusiness,MediacalBusiness,
+schema:MedicalBusiness,MedicalBusiness,Medizinisches Geschäft
+schema:MedicalOrganization,MedicalOrganization,Medizinische Organisation
+schema:MensClothingStore,MensClothingStore,Herrenbekleidungsgeschäft
+schema:MovieTheater,MovieTheater,Kino
+schema:Museum,Museum,Museum
+schema:MusicStore,MusicStore,Musikladen
+schema:NightClub,NightClub,Nachtclub
+schema:Organization,Organization,Organisation
+schema:Park,Park,Park
+schema:ParkingFacility,ParkingFacility,Parkplatz
+schema:PerformingArtsTheater,PerformingArtsTheater,
+schema:PerformingGroup,PerformingGroup,
+schema:Person,Person,Person
+schema:Pharmacy,Pharmacy,Apotheke
+schema:Physiotherapy,Physiotherapy,
+schema:Place,Place,Ort
+schema:PlaceOfWorship,PlaceOfWorship,Gotteshaus
+schema:Playground,Playground,Spielplatz
+schema:PublicSwimmingPool,PublicSwimmingPool,Öffentliches Schwimmbad
+schema:PublicToilet,PublicToilet,Öffentliche Toilette
+schema:RVPark,RVPark,
+schema:Reservation,Reservation,Reservierung
+schema:Reservoir,Reservoir,Stausee
+schema:Restaurant,Restaurant,Restaurant
+schema:RiverBodyOfWater,RiverBodyOfWater,Fluss
+schema:Room,Room,Zimmer
+schema:School,School,Schule
+schema:ShoppingCenter,ShoppingCenter,Einkaufszentrum
+schema:SocialEvent,SocialEvent,Soziale Veranstaltung
+schema:SocialMediaPosting,SocialMediaPosting,Social Media Post
+schema:SportsActivityLocation,SportsActivityLocation,Sportanlage
+schema:SportsEvent,SportsEvent,SportsEvent
+schema:SportsOrganization,SportsOrganization,
+schema:StadiumOrArena,StadiumOrArena,Stadion oder Arena
+schema:Store,Store,Geschäft
+schema:TaxiStand,TaxiStand,
+schema:TheaterEvent,TheaterEvent,Theaterveranstaltung
+schema:Thing,Thing,
+schema:TouristAttraction,TouristAttraction,Touristenattraktion
+schema:TouristDestination,TouristDestination,Touristdestination
+schema:TouristInformationCenter,TouristInformationCenter,Touristeninformationszentrum
+schema:TrainStation,TrainStation,Bahnhof
+schema:TransportationStop,TransportationStop,Haltestelle
+schema:Trip,Trip,Reise
+schema:Winery,Winery,Weinkellerei
+schema:Zoo,Zoo,Zoo
