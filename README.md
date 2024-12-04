@@ -1,4 +1,11 @@
 # Matching-multiple-.csv-files-and-append-the-content-to-matches
-Matching multiple .csv files by column condition and append the matched rows with the content form other .csv file.
-There is on primary .csv file with whom other .csv file have to be matche on primary ID (in this case locName). When the the other .csv file is matched with primary file the content which is in the extension of the matched row will be merged with the primary .csv file. For example, if "Event" in primary file is matched with "Event" in the second file on "locName" column, the whole content from the matched ROW from the second file will be appended to the "Event" row in the primary file.
-At the end one .csv file be created and exported.
+The goal is to match multiple .csv files based on a specific column condition and append the matched rows from the secondary .csv files to a primary .csv file.
+    Primary File: A central .csv file contains data with a unique identifier column (e.g., locName).
+    Secondary Files: Other .csv files need to be matched with the primary file based on the locName column.
+Process:
+    For each secondary .csv file:
+        Identify rows in the secondary file where the locName column matches the corresponding value in the primary file.
+        Append all content from the matched row in the secondary file to the respective row in the primary file.
+    If, for instance, a row in the primary file has a locName value "Event" and a secondary file also contains a row with locName as "Event," the entire content of that matched row from the secondary file will be merged with the primary file's row.
+Output:
+    A single consolidated .csv file is created and exported, containing data from the primary file with additional content appended from the secondary files based on matching rows.
